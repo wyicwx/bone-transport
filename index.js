@@ -10,7 +10,7 @@ var _ = require('underscore');
 
 module.exports = bone.wrapper(function(buffer, encoding, callback) {
 
-  var options = this.option.extend({
+  var options = this.option.defaults({
     paths: ['sea-modules'],
 
     idleading: '',
