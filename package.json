@@ -1,7 +1,7 @@
 {
   "name": "bone-transport",
   "description": "Transport javascript into cmd for bone.",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "node": ">= 0.8.0"
   },
