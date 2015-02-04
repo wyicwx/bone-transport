@@ -26,6 +26,7 @@ module.exports = bone.wrapper(function(buffer, encoding, callback) {
       '.html': text.html2jsParser,
       '.json': json.jsonParser,
       '.tpl': template.tplParser,
+      '.mustache': text.html2jsParser,
       '.handlebars': template.handlebarsParser
     },
 
