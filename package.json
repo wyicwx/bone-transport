@@ -1,5 +1,5 @@
 {
-  "name": "bone-transport",
+  "name": "bone-act-transport",
   "description": "Transport javascript into cmd for bone.",
   "version": "0.0.12",
   "engines": {
